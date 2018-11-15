@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataHelper.cs](./CS/ReportLoad/DataHelper.cs) (VB: [DataHelper.vb](./VB/ReportLoad/DataHelper.vb))
+* [Form1.cs](./CS/ReportLoad/Form1.cs) (VB: [Form1.vb](./VB/ReportLoad/Form1.vb))
+* [Program.cs](./CS/ReportLoad/Program.cs) (VB: [Program.vb](./VB/ReportLoad/Program.vb))
+<!-- default file list end -->
 # How to load an XtraSchedulerReport from template
 
 
